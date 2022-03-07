@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oaza0712
+- 👀 I’m interested in Android development and machine learning
+- 🌱 I’m currently learning Android development
