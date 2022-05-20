@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @oaza0712
-- 👀 I’m interested in Android development and machine learning
+- 👋 Hi, I’m Leona
+- 👀 I’m interested in Android development 
 - 🌱 I’m currently learning Android development
